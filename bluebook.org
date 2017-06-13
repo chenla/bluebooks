@@ -63,13 +63,16 @@ licences and made availble as widely as possible.
 ** Centre for Grass Studies
 
 The Centre for Grass Studies is being established to focus
-on the study and development of technologies, techniques and
-understanding of the crucial role of grasses in human
-civilization.  Specifically, the Centre will study Bamboo,
-it's production, processing and uses.  And secondly, grass
-as a crop in the form of cereals for human consumption and
-as part of agricultural savannahs that mimic natural
-savannah ecosystems.
+on the study and development of technologies, techniques,
+and understanding of the crucial role of grasses in human
+civilization.  Specifically, the Centre will focus on three
+different areas.  Frist, Bamboo, it's production, processing
+and uses.  And secondly, grass as a crop in the form of
+cereals for human consumption.  And third, as part of
+/agricultural savannahs/ that mimic natural savannah
+ecosystems that reduce external inputs on land used for
+cereal production, as well as the production of meat, milk
+and eggs.
 
 ** b>i Reseach Group
 
