@@ -68,6 +68,36 @@ licences and made availble as widely as possible.
 
 ** D9D Services
 
+D9D is shorthand for Distributed (9 characters between the
+two d's).
+
+D9D Services provide the IT and Networking infrastructure
+for everything being done under the Chenla Institure
+umbrella.
+
+Services will be divided into four parts:
+
+  - Compute   :: containerized cloud computing services
+  - Store     :: digital storage (block, object & filesystem)
+  - Cognition :: machine learning services
+  - Graph     :: graph database as a service
+
+All services will be provided through the IPFS network, so
+that services may be distributed across different, servers,
+clusters and cloud providers around the world.
+
+Services will be provided to all Chenla projects.  They will
+also be offered free of charge to the larger Chenla
+community for hosting projects that are free and open
+source, that work towards Chenla's mandate of building a
+distributed civilization.  Services will also be provided to
+NGOs, colleges & universities for reasearch or providing
+online educational courseware that are open and free to the
+public.
+
+A commercial spinoff of D9D Services will be provided under
+the name /Kinto Cloud Services/ which Chenla will maintain
+shares in.
 
 * Facilities
 
