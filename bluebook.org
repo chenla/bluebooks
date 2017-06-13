@@ -52,9 +52,22 @@ licences and made availble as widely as possible.
  - organization & legal
     - Administrative office
     - Centre for Distributed Civilization
+    - Centre for Grass Studies
     - b>i Research Group
     - Chenla Scopic Press
-    - Dabbawallah Cluster : computational and storage services
+    - D9D Services
+
+
+** Centre for Distributed Civilization
+
+** Centre for Grass Studies
+
+** v>i Reseach Group
+
+** Chenla Scopic Press
+
+** D9D Services
+
 
 * Facilities
 
