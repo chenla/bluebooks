@@ -66,6 +66,31 @@ licences and made availble as widely as possible.
 
 ** Chenla Scopic Press
 
+Chenla will run it's own unique academic publishing company
+called a /scopic press/.
+
+A scopic publication not only includes narrative works that
+constitute a traditional book, but all of the surrounding
+context of the book which are typically only linked to in
+hypertext links (in electronic formats) as well as in
+references, footnotes and bibliographies.
+
+The full publication will be in electronic formats that
+include all materials as well as an index which can be
+imported into a graph database.  Users will then be able to
+build personal libraries where works are woven together with
+personal notes, correspondence, bookmarks, excerpts and
+quotes, works in progress, glosses and other annotations.
+
+Multiple editions will be published with different subsets
+of the full scopic texts in both electronic and print that
+will more closely resemble traditional books.
+
+Chenla will publish original works, as well as /scopic
+editions/ of select works which are deemed important to
+realizing Chenla's mandate to build a distributed
+civilization.
+
 ** D9D Services
 
 D9D is shorthand for Distributed (9 characters between the
