@@ -60,6 +60,17 @@ licences and made availble as widely as possible.
 
 ** Centre for Distributed Civilization
 
+The Centre for Distributed Civilization conducts research
+and development for the core mandate of the Institute.  The
+Centre's core work will be in developing /The Primer/ which
+is a compendium of all knowledge required to build and
+maintain a distributed technological planetary civilization.
+The primer is far from being an archive or library in the
+traditional sense.  It is both descriptive as well as
+proscriptive in nature and designed to be a living document
+that is not just referred to but put into practice and
+maintained in living memory.
+
 ** Centre for Grass Studies
 
 The Centre for Grass Studies is being established to focus
