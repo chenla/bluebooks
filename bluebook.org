@@ -62,7 +62,18 @@ licences and made availble as widely as possible.
 
 ** Centre for Grass Studies
 
-** v>i Reseach Group
+** b>i Reseach Group
+
+The b>i research group, is a distributed research group
+established to conduct planned research and development
+projects that support work being done at the Institure.
+
+b>i research projects will aim to have the dual goal of
+providing pragmatic solutions that benifit people today,
+while also helping to further long term research and
+development goals that fulfill Chenla's mandate to build a
+distributed civilization.
+
 
 ** Chenla Scopic Press
 
