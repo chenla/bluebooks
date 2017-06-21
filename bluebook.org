@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Chenla Bluebook 
+#+TITLE: Chenla Bluebook
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
@@ -9,19 +9,18 @@
   :ID:        a043e6f1-ec8a-4d60-af71-ad54ee012fed
   :VER:       550096596.118544686
   :GEO:       48P-491193-1287029-15
-  :BXID:      proj:GHT4-5465
+  :BXID:      proj:QIC6-1753
+  :Category:  primer
+  :Entity:    tldr
+  :Status:    stub 
+  :Licence:   MIT/CC BY-SA 4.0
   :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
 
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-tl;dr-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 * Introduction
 * The Chenla Institute
