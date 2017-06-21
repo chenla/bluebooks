@@ -10,7 +10,7 @@
   :VER:       550096596.118544686
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:QIC6-1753
-  :Category:  primer
+  :Category:  deploy
   :Entity:    tldr
   :Status:    wip
   :Licence:   MIT/CC BY-SA 4.0
