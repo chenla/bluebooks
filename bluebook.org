@@ -22,6 +22,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
+
 * Introduction
 * The Chenla Institute
 
@@ -49,7 +51,6 @@ licences and made availble as widely as possible.
 * Organization
 
  - organization & legal
-    - Administrative office
     - Centre for Distributed Civilization
     - Centre for Grass Studies
     - b>i Research Group
@@ -77,11 +78,11 @@ and understanding of the crucial role of grasses in human
 civilization.  Specifically, the Centre will focus on three
 different areas.  Frist, Bamboo, it's production, processing
 and uses.  And secondly, grass as a crop in the form of
-cereals for human consumption.  And third, as part of
-/agricultural savannahs/ that mimic natural savannah
-ecosystems that reduce external inputs on land used for
-cereal production, as well as the production of meat, milk
-and eggs.
+cereals for human consumption.  And third, as forage which
+is part of /agricultural savannahs/ that mimic natural
+savannah ecosystems that reduce external inputs on land used
+for cereal production, as well as the production of meat,
+milk and eggs.
 
 ** b>i Reseach Group
 
@@ -127,6 +128,37 @@ editions/ of select works which are deemed important to
 realizing Chenla's mandate to build a distributed
 civilization.
 
+** Chalkhall
+:PROPERTIES:
+:ID:       301a4758-d591-4e82-9f7a-c17037c21f0a
+:END:
+
+Chalkhall is an ongoing program for rethinking education in
+the 21st century.
+
+What we know about the world is constantly changing. Facts
+that you learned in school are out of date or just plain
+wrong in a decade cite:arbesman:2012half-life
+
+The technology you use today, is already out of date,
+development has moved on before you have even heard about
+it.
+
+schools are now keeping up with either facts or technology
+-- and they are not teaching students how to learn on their
+own, or give them the cognitive tools they will need for a
+career that is in constant change.
+
+learning can not longer be a place you go, or a time in your
+life where you learn what you need for the rest of the your
+life.  learning needs to become a habit that you practice
+every day, like exercise.
+
+Technology is changing so rapidly that careers will change
+dramatically over the course of a lifetime.
+
+
+
 ** D9D Services
 
 D9D is shorthand for Distributed (9 characters between the
@@ -162,11 +194,11 @@ shares in.
 
 * Facilities
 
-- Viz Centre : collaboration and conference space
-- Fab Lab    : tool & machine fabrication
-- Map Lab    : content & code
-- Wet Lab    : Gene Splicing & Agricultural Biotech
-- DataCenter : Containerized Process Cluster
+ - Viz Centre : collaboration and conference space
+ - Fab Lab    : tool & machine fabrication
+ - Map Lab    : content & code
+ - Wet Lab    : Gene Splicing & Agricultural Biotech
+ - DataCenter : Containerized Process Cluster
 
 Renovation of existing structures @prekleap 
  - exisiting buildings
