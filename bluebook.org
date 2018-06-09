@@ -282,7 +282,29 @@ make this possible.
 
 * 13
 
-
+Machine cognition is, by definition, not human and need not have the
+same cognitive and memory restrictions that humans have.  This will
+make it possible for us to build cognitive machines who can understand
+complexity that is beyond our limitations and to think and work in
+time scales that are far faster than we can, as well as far longer and
+slower that we are capable of.  As Kevin Kelly explained, there will
+not be just one kind of AI and we must stop trying to project
+ourselves and our limitations into cognitive machines.
+Anthropomorphism is both stupid and potentially dangerous.  Making
+machines a reflection of ourselves is a bad idea and there is no
+reason to build things which share all out shortcomings while also
+giving them capabilities that exceed our own.  We are still very far
+from being able to build such machines and I believe that over time,
+as we begin to understand what AI is and how it works, that what we
+are building is not a reflection of ourselves, but an extension and
+externalization of ourselves that can operate at scales of time, space
+and complexity on our behalf that are impossible today.  Again, this
+is not wishful thinking, once we understand that all tools be they a
+hammer, or a CNC milling machine or a supercomputer that can beat the
+world's Go masters are us.  We are simply extending and externalizing
+ourselves.  And we must find the wisdom that we are capable of, to
+wisely extend and externalize ourselves in ways that help make the
+world a better place rather than to destroy each other.
 
 
 * The Chenla Institute
