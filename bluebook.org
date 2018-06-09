@@ -27,284 +27,323 @@ bibliography:../hoard/bib.bib
 
 * First Admonition
 
-What you are holding in your hand distills what we are doing as far as
-it can be distilled without loosing so much context that it becomes
-meaningless.  Anyone who thinks that large complex things can be
-boiled down to a dark greaser smear in a couple of paragraphs, a table
-and a couple of charts is delusional.  The greasy smear approach,
-which is commonly called an /elevator pitch/ might be appropriate to
-explain an iteration on an existing idea.  But fails totally when
-describing a non-incremental innovation.  This is not a pitch, it's an
-overview of foundational work that we are building a number of
-commercial and not-for-profit projects on.
+What you are holding in your hand distills what we are doing
+as far as it can be distilled without loosing so much
+context that it becomes meaningless.  Anyone who thinks that
+large complex things can be boiled down to a dark greaser
+smear in a couple of paragraphs, a table and a couple of
+charts is delusional.  The greasy smear approach, which is
+commonly called an /elevator pitch/ might be appropriate to
+explain an iteration on an existing idea.  But fails totally
+when describing a non-incremental innovation.  This is not a
+pitch, it's an overview of foundational work that we are
+building a number of commercial and not-for-profit projects
+on.
 
 * 1
 
-In the structure of scientific revolutions, Kuhn describes science as
-being a progression of different paradigms.  A paradign is a nebulous
-assemblage of recorded observations, theories, best practices and
-information that share a common vocabulary and structure that science
-is done in.  Over time, new observations that break the paradigm begin
-to build up until the paradigm is broken and everyone scrambles to
-come to a consensus around a new paradigm that better explains the
-evidence.  This is a useful way of understanding a very wide range of
-human activity from government, to business, education and the arts.
+In the structure of scientific revolutions, Kuhn describes
+science as being a progression of different paradigms.  A
+paradign is a nebulous assemblage of recorded observations,
+theories, best practices and information that share a common
+vocabulary and structure that science is done in.  Over
+time, new observations that break the paradigm begin to
+build up until the paradigm is broken and everyone scrambles
+to come to a consensus around a new paradigm that better
+explains the evidence.  This is a useful way of
+understanding a very wide range of human activity from
+government, to business, education and the arts.
 
 * 2
 
-In the structure of scientific revolutions, Kuhn describes science as
-being a progression of different paradigms.  A paradign is a nebulous
-assemblage of recorded observations, theories, best practices and
-information that share a common vocabulary and structure that science
-is done in.  Over time, new observations that break the paradigm begin
-to build up until the paradigm is broken and everyone scrambles to
-come to a consensus around a new paradigm that better explains the
-evidence.  This is a useful way of understanding a very wide range of
-human activity from government, to business, education and
-the arts.
+In the structure of scientific revolutions, Kuhn describes
+science as being a progression of different paradigms.  A
+paradign is a nebulous assemblage of recorded observations,
+theories, best practices and information that share a common
+vocabulary and structure that science is done in.  Over
+time, new observations that break the paradigm begin to
+build up until the paradigm is broken and everyone scrambles
+to come to a consensus around a new paradigm that better
+explains the evidence.  This is a useful way of
+understanding a very wide range of human activity from
+government, to business, education and the arts.
 
 * 3
 
-Our civilization is at the very end of a paradigm that has been in
-place since the end of the World War II.  But the number of anomolies
-have now piled up to the point where we are now reaching a critical
-threshold just before the paradigm shatters and needs to be replaced.
-That period of scrambling around trying to find a new consensus is not
-only messy but a potentially dangerous time to be alive.  Very bad
-things happen, because most people will spend all of their energy
-trying to salvage the paradigm rather than let it go and move on.
-Climate-change denial, extreme nationalistim, poplulism and
-straight-out fascism is suddenly attractive to a large number of
-people who are threatened as the decaying paradigm collapses.  At the
-same time, such times are exciting to live through, whole new worlds
-become possible that would have been dismissed as impractical or even
-impossible a few years before.  We live in interesting times, and for
-many that is a bad thing.  But for some, it is liberating and
-exhilerating.  This is the time to identity and place bets on those
-people, not the timorous Luddites cowering in the shadows praying for
-a return of a golden past that never existed.
+Our civilization is at the very end of a paradigm that has
+been in place since the end of the World War II.  But the
+number of anomolies have now piled up to the point where we
+are now reaching a critical threshold just before the
+paradigm shatters and needs to be replaced.  That period of
+scrambling around trying to find a new consensus is not only
+messy but a potentially dangerous time to be alive.  Very
+bad things happen, because most people will spend all of
+their energy trying to salvage the paradigm rather than let
+it go and move on.  Climate-change denial, extreme
+nationalistim, poplulism and straight-out fascism is
+suddenly attractive to a large number of people who are
+threatened as the decaying paradigm collapses.  At the same
+time, such times are exciting to live through, whole new
+worlds become possible that would have been dismissed as
+impractical or even impossible a few years before.  We live
+in interesting times, and for many that is a bad thing.  But
+for some, it is liberating and exhilerating.  This is the
+time to identity and place bets on those people, not the
+timorous Luddites cowering in the shadows praying for a
+return of a golden past that never existed.
 
 * 4
 
-Now is the time to go back to first principles and understand who we
-are, how we got to where we are and where things are headed in order
-to understand how things need the change and what needs to be be built
-that will eventually become part of the new consensus.  This is
-exactly what we have been working on for twenty years.  We don't need
-to play catch-up because we started work on this back when the cracks
-were getting large enough in the dike to realise the inevitibility of
-the dike's collapse.  It's only been in the past 18 months that it is
-now clear that the collapse is now imminent and through the cracks
-which have widened to become gaping rents to see the shape of what
-lies beyond.  As yet these are still shapes.  We know that what is now
-inevitable but we still don't know the final form they will take.
-We're just starting to look for solutions that we can all agree on.
+Now is the time to go back to first principles and
+understand who we are, how we got to where we are and where
+things are headed in order to understand how things need the
+change and what needs to be be built that will eventually
+become part of the new consensus.  This is exactly what we
+have been working on for twenty years.  We don't need to
+play catch-up because we started work on this back when the
+cracks were getting large enough in the dike to realise the
+inevitibility of the dike's collapse.  It's only been in the
+past 18 months that it is now clear that the collapse is now
+imminent and through the cracks which have widened to become
+gaping rents to see the shape of what lies beyond.  As yet
+these are still shapes.  We know that what is now inevitable
+but we still don't know the final form they will take.
+We're just starting to look for solutions that we can all
+agree on.
 
 * 5
 
-All species, plant, insect, animal or microbial evolve to fill a
-specific niche in an ecosystem, full stop, no exceptions.  Keep in
-mind that an ecosystem is a system.  Systems are made up of different
-parts that must work together for the system to keep running.  Again,
-no exceptions.  Homo Sapiens is a species of hominid that evolved to
-fill a niche in the African savannah ecosystem.  When we spread beyond
-the savannah and eventually over the entire planet, we had to take
-enough of the savannah with us to survive.  Things like clothes,
-cooked food, and shelter all helped us to adapt to climates we were
-not designed to live in.  That ability to dynamically adapt in real
-time is what sets us apart from other species.  We are not bound by
-the hardcoded instincts that comes with a limbic system.  Our
-freakishly large cerebral cortex can be thought of as a general
-purpose programable computer.
+All species, plant, insect, animal or microbial evolve to
+fill a specific niche in an ecosystem, full stop, no
+exceptions.  Keep in mind that an ecosystem is a system.
+Systems are made up of different parts that must work
+together for the system to keep running.  Again, no
+exceptions.  Homo Sapiens is a species of hominid that
+evolved to fill a niche in the African savannah ecosystem.
+When we spread beyond the savannah and eventually over the
+entire planet, we had to take enough of the savannah with us
+to survive.  Things like clothes, cooked food, and shelter
+all helped us to adapt to climates we were not designed to
+live in.  That ability to dynamically adapt in real time is
+what sets us apart from other species.  We are not bound by
+the hardcoded instincts that comes with a limbic system.
+Our freakishly large cerebral cortex can be thought of as a
+general purpose programable computer.
 
 * 6
 
-Civilization emerged from the agricultural revolution as settlements
-grew larger in size and complexity than nomadic social structures
-could maintain.  Humans did not evolve to live in herds.  We are pack
-animals, fleet of foot and able to think on our feet.  Packing each
-other into close quarters with no chance to escape each other is not
-the niche we evolved to fill.
+Civilization emerged from the agricultural revolution as
+settlements grew larger in size and complexity than nomadic
+social structures could maintain.  Humans did not evolve to
+live in herds.  We are pack animals, fleet of foot and able
+to think on our feet.  Packing each other into close
+quarters with no chance to escape each other is not the
+niche we evolved to fill.
 
-If pressed, I would say that if you had to pick a single thing that
-goes to the root of all of mankind's problems, that would have to be
-the problem of scale.  Everything that Man has done that is good, as
-well as everything we have done that is bad can be understood as a
-scaling problem.
+If pressed, I would say that if you had to pick a single
+thing that goes to the root of all of mankind's problems,
+that would have to be the problem of scale.  Everything that
+Man has done that is good, as well as everything we have
+done that is bad can be understood as a scaling problem.
 
 * 7
 
-Humans have a very small amount of working memory.  We can only keep
-at the most, three things on working memory at a time.  Our short term
-memory is slightly larger which is expressed as the magic number seven
-plus or minus two.  Recent research indicates that the number is
-closer to for or five.  We can only maintain relationships with a
-maximum of 150 people, what is known as Dunbar's number.  This means
-we are able to related to people less and less as a group, communitiy
-or organizations increases in size.  We can only maintain close
-relationships with a handful of people, topping out at fourteen or
-less.  These are the numbers that we must stay within when we design
-buildings, businesses and governments.  The story of civilization is
-the story of how we come up with hacks to work around these
-limitations.  But they always have been, and always will, be hacks and
-recognize them for the ugliness that they are.  Better to dispense
-with such hacks when ever possible.  We must strive to work within
-these limits and treat any time that we work outside of those limits
-as kludges and abject failures.
+Humans have a very small amount of working memory.  We can
+only keep at the most, three things on working memory at a
+time.  Our short term memory is slightly larger which is
+expressed as the magic number seven plus or minus two.
+Recent research indicates that the number is closer to for
+or five.  We can only maintain relationships with a maximum
+of 150 people, what is known as Dunbar's number.  This means
+we are able to related to people less and less as a group,
+communitiy or organizations increases in size.  We can only
+maintain close relationships with a handful of people,
+topping out at fourteen or less.  These are the numbers that
+we must stay within when we design buildings, businesses and
+governments.  The story of civilization is the story of how
+we come up with hacks to work around these limitations.  But
+they always have been, and always will, be hacks and
+recognize them for the ugliness that they are.  Better to
+dispense with such hacks when ever possible.  We must strive
+to work within these limits and treat any time that we work
+outside of those limits as kludges and abject failures.
 
 * 8 
 
-Most of these kludges fall into two categories, chunking and mapping.
-We can expand our working memory by grouping large groups of things
-into chunks.  We can remember large numbers by breaking the numbers
-into smaller groups that can be treated as a single item in memory.
-Another is to use uniforms.  The reason that sports teams, police,
-military and even schools use uniforms is so we can chunk together
-people into teams that we can treat as single units.  The second
-method, mapping, reduces large complex things to very simplified
-general outlines of larger things.  This enables us to see the forest
-for the trees, but it comes at an expense.  We are so used to using
-maps to navigate the world around us that we have forgotten that they
-are maps.  All incarnations of commerce, governance and daily life are
-now almost entirely experienced through filters that reduce the
-complexity of the world to simple models and maps.  Most people
-believe that the map is the territory.  Ignoring the complexity of
-something and only considering a simplification of it, more often than
-not ends in failure.  And rather than putting down the map and
-confronting complexity we simply try to develop a new map that doesn't
-suck as much as they one before.  Every time we chunk and map people
-we dehumanise them and cause suffering and misery.  We simplfy markets
-and reduce everything to property that has a value and can be bought
-and sold and get economic theories that don't work.  Instead of
-understanding that you can't treat everything as a commodity being
-bought and sold in a market, we throw away the theory and try to find
-a new theory.  When governments undertake massive urban development
-projects that reduce people to units that require X amount of square
-meters of space, X amount of electricity and X amount of caloric
-intake a day we are amazed when it fails.  Rather than treating human
-communities as being a surprisingly complex entaglement of motives,
-needs, relationships and needs, we toss the plan and develop a new
-plan.  When we throw away the interconnected complexity of natural
-ecosystems and replace them with single species monocultures we begin
-a process that inevitably collapses after a long process trying to
-solve each problem that comes along, from pests, to disease, to the
-effects of the climate results in a destruction of the soil, poisoning
-both land and water with insecticides, fertilizers and antibiotics.
-In the end there is nothing to be done except abandon the land and
-move on to repeat the process on new land, leaving behind barren,
-lifeless waste that will take millennia to restore.
+Most of these kludges fall into two categories, chunking and
+mapping.  We can expand our working memory by grouping large
+groups of things into chunks.  We can remember large numbers
+by breaking the numbers into smaller groups that can be
+treated as a single item in memory.  Another is to use
+uniforms.  The reason that sports teams, police, military
+and even schools use uniforms is so we can chunk together
+people into teams that we can treat as single units.  The
+second method, mapping, reduces large complex things to very
+simplified general outlines of larger things.  This enables
+us to see the forest for the trees, but it comes at an
+expense.  We are so used to using maps to navigate the world
+around us that we have forgotten that they are maps.  All
+incarnations of commerce, governance and daily life are now
+almost entirely experienced through filters that reduce the
+complexity of the world to simple models and maps.  Most
+people believe that the map is the territory.  Ignoring the
+complexity of something and only considering a
+simplification of it, more often than not ends in failure.
+And rather than putting down the map and confronting
+complexity we simply try to develop a new map that doesn't
+suck as much as they one before.  Every time we chunk and
+map people we dehumanise them and cause suffering and
+misery.  We simplfy markets and reduce everything to
+property that has a value and can be bought and sold and get
+economic theories that don't work.  Instead of understanding
+that you can't treat everything as a commodity being bought
+and sold in a market, we throw away the theory and try to
+find a new theory.  When governments undertake massive urban
+development projects that reduce people to units that
+require X amount of square meters of space, X amount of
+electricity and X amount of caloric intake a day we are
+amazed when it fails.  Rather than treating human
+communities as being a surprisingly complex entaglement of
+motives, needs, relationships and needs, we toss the plan
+and develop a new plan.  When we throw away the
+interconnected complexity of natural ecosystems and replace
+them with single species monocultures we begin a process
+that inevitably collapses after a long process trying to
+solve each problem that comes along, from pests, to disease,
+to the effects of the climate results in a destruction of
+the soil, poisoning both land and water with insecticides,
+fertilizers and antibiotics.  In the end there is nothing to
+be done except abandon the land and move on to repeat the
+process on new land, leaving behind barren, lifeless waste
+that will take millennia to restore.
 
 * 9 
 
-So why do we keep doing this to ourselves?  Part of the reason is that
-our cognitive limitations make it difficult and even close to
-impossible to understand large complex systems.  We are terrible at
-thinking in time scales that are longer than even small fractions of
-our lifespans.  We can only see today, and perhaps a few months or
-even a few years down the road.  If we really push it we might be able
-to see the fuzzy image of our children or grandchildren but no
-farther.  Our small working memory allows us to do unspeakibly stupid
-and evil things to places and futures that are too far away for us to
-comprehend and relate to.
+So why do we keep doing this to ourselves?  Part of the
+reason is that our cognitive limitations make it difficult
+and even close to impossible to understand large complex
+systems.  We are terrible at thinking in time scales that
+are longer than even small fractions of our lifespans.  We
+can only see today, and perhaps a few months or even a few
+years down the road.  If we really push it we might be able
+to see the fuzzy image of our children or grandchildren but
+no farther.  Our small working memory allows us to do
+unspeakibly stupid and evil things to places and futures
+that are too far away for us to comprehend and relate to.
 
 * 10
 
-As depressing as all of this is, and I can't stress enough how serious
-the things we can not see are and how they can not be mapped or
-chunked away.  History is littered with civilization after
-civilization who waxes large and fat for a time, only to wane and
-eventually collapse as resources are exhausted and hacks to get around
-limitations no longer work.  The primary reason the present paradigm
-is collapsing is that we have hit the limits of the hacks we have
-developed to cope with complexity.  The old tricks no longer work and
-we need to go back and build a new framework that can enable a new
-generation of hacks.  But this time, we have the chance of not just
-replacing one map for a new one, but to go back to first principles
-and build something new that acknowledges and works with the
-complexity rather than mapping away the complexity and hoping it will
-go away.  If we can put our large general purpose cortex to good use
-it can be done.  Further, I believe that man's technology is now
-reaching a complexity threshold that it will be up to the challenge of
-understanding the complexity of large systems for us.
+As depressing as all of this is, and I can't stress enough
+how serious the things we can not see are and how they can
+not be mapped or chunked away.  History is littered with
+civilization after civilization who waxes large and fat for
+a time, only to wane and eventually collapse as resources
+are exhausted and hacks to get around limitations no longer
+work.  The primary reason the present paradigm is collapsing
+is that we have hit the limits of the hacks we have
+developed to cope with complexity.  The old tricks no longer
+work and we need to go back and build a new framework that
+can enable a new generation of hacks.  But this time, we
+have the chance of not just replacing one map for a new one,
+but to go back to first principles and build something new
+that acknowledges and works with the complexity rather than
+mapping away the complexity and hoping it will go away.  If
+we can put our large general purpose cortex to good use it
+can be done.  Further, I believe that man's technology is
+now reaching a complexity threshold that it will be up to
+the challenge of understanding the complexity of large
+systems for us.
 
 * 11
 
-This is not wishful thinking.  There is good reason to believe that we
-now possess, or will soon have to capacity and capiblity to solve most
-of the important problems that man and the ecosystems we inhabit will
-face this century.  But to understand this we need to understand that
-man's big brain crossed a cognitive threshold that allowed us to think
-outside of ourselves in a very limited but important way.  We have the
-ability, that is only shared by a handful of other old world
-primates, to comprehend the intention of others.  We can point at a
-hill and other humans understand that we are communicating an intent
-that is connected to that hill.  A Golden Retriever just sees you
-pointing a finger.  This unique, almost magical ability makes it
-possible for humans to extend, externalize, and specialize mind,
-memory and muscle.  First came crude tool building and mastering
-fite.  Next came spoken language which made it possible to communicate
-and cooperate with each other by extending our thoughts and intents
-with others.  Written language externalized speech and made it
-possible to communicate with those far away in space in time who you
+This is not wishful thinking.  There is good reason to
+believe that we now possess, or will soon have to capacity
+and capiblity to solve most of the important problems that
+man and the ecosystems we inhabit will face this century.
+But to understand this we need to understand that man's big
+brain crossed a cognitive threshold that allowed us to think
+outside of ourselves in a very limited but important way.
+We have the ability, that is only shared by a handful of
+other old world primates, to comprehend the intention of
+others.  We can point at a hill and other humans understand
+that we are communicating an intent that is connected to
+that hill.  A Golden Retriever just sees you pointing a
+finger.  This unique, almost magical ability makes it
+possible for humans to extend, externalize, and specialize
+mind, memory and muscle.  First came crude tool building and
+mastering fite.  Next came spoken language which made it
+possible to communicate and cooperate with each other by
+extending our thoughts and intents with others.  Written
+language externalized speech and made it possible to
+communicate with those far away in space in time who you
 will never meet or know about.  Hand tools, are an extension
-of the hand.  Complex machines, externalized tools and made it
-possible to literally hand-off work to a device that can work
-independently of of our physical bodies.  Communication networks which
-started as networks for transporting physical messages turned into
-radio and telegraph networks allowing us to communicate in real time
-anywhere on the planet.  Finally, mind was replicated in programable
-machines that can think.  We're not talking about human level
-cognition, but computational devices do think, allowing us to
-externalize cognitive processes.  Most recently we are now combining
-externalized muscle in the form of mechanical machines, and
-externalized mind in the form of computers together to create
-robotics.  Machine cognition is now beginning to become capable enough
-to do tasks that only humans could perform before.  We call this
-artificial intelligence.  Taken together, AI and robotics will soon be
-able to replace the vast majority of industrial and information work
-that makes up an industrial civilization.  The industrial revolution
-was founded on using humans as machines -- put simply, slavery.  Human
-as machines made civilization and all of it's innovations and advances
-possible at the cost of dehumanizing most of our fellow man and
-treating them as little more then clever mechanical devices.
+of the hand.  Complex machines, externalized tools and made
+it possible to literally hand-off work to a device that can
+work independently of of our physical bodies.  Communication
+networks which started as networks for transporting physical
+messages turned into radio and telegraph networks allowing
+us to communicate in real time anywhere on the planet.
+Finally, mind was replicated in programable machines that
+can think.  We're not talking about human level cognition,
+but computational devices do think, allowing us to
+externalize cognitive processes.  Most recently we are now
+combining externalized muscle in the form of mechanical
+machines, and externalized mind in the form of computers
+together to create robotics.  Machine cognition is now
+beginning to become capable enough to do tasks that only
+humans could perform before.  We call this artificial
+intelligence.  Taken together, AI and robotics will soon be
+able to replace the vast majority of industrial and
+information work that makes up an industrial civilization.
+The industrial revolution was founded on using humans as
+machines -- put simply, slavery.  Human as machines made
+civilization and all of it's innovations and advances
+possible at the cost of dehumanizing most of our fellow man
+and treating them as little more then clever mechanical
+devices.
 
 * 12
 
-Putting this all together, we can put to an end to human slavery and
-it's modern incarnation, the industrial salary worker who is only free
-in name only.  For all practical purposes industrial workers were not
-economically free to leave their jobs accept to exchange one
-industrial job for another.  Industrial work meant large swaths of the
-population having to live close to large industrial centers at a low
-standard of living and education with little to no chance of it
-getting better.  Automation in the form of AI operating machines will
-make this possible.
+Putting this all together, we can put to an end to human
+slavery and it's modern incarnation, the industrial salary
+worker who is only free in name only.  For all practical
+purposes industrial workers were not economically free to
+leave their jobs accept to exchange one industrial job for
+another.  Industrial work meant large swaths of the
+population having to live close to large industrial centers
+at a low standard of living and education with little to no
+chance of it getting better.  Automation in the form of AI
+operating machines will make this possible.
 
 * 13
 
-Machine cognition is, by definition, not human and need not have the
-same cognitive and memory restrictions that humans have.  This will
-make it possible for us to build cognitive machines who can understand
-complexity that is beyond our limitations and to think and work in
-time scales that are far faster than we can, as well as far longer and
-slower that we are capable of.  As Kevin Kelly explained, there will
-not be just one kind of AI and we must stop trying to project
-ourselves and our limitations into cognitive machines.
-Anthropomorphism is both stupid and potentially dangerous.  Making
-machines a reflection of ourselves is a bad idea and there is no
-reason to build things which share all out shortcomings while also
-giving them capabilities that exceed our own.  We are still very far
-from being able to build such machines and I believe that over time,
-as we begin to understand what AI is and how it works, that what we
-are building is not a reflection of ourselves, but an extension and
-externalization of ourselves that can operate at scales of time, space
-and complexity on our behalf that are impossible today.  Again, this
-is not wishful thinking, once we understand that all tools be they a
-hammer, or a CNC milling machine or a supercomputer that can beat the
-world's Go masters are us.  We are simply extending and externalizing
-ourselves.  And we must find the wisdom that we are capable of, to
-wisely extend and externalize ourselves in ways that help make the
-world a better place rather than to destroy each other.
+Machine cognition is, by definition, not human and need not
+have the same cognitive and memory restrictions that humans
+have.  This will make it possible for us to build cognitive
+machines who can understand complexity that is beyond our
+limitations and to think and work in time scales that are
+far faster than we can, as well as far longer and slower
+that we are capable of.  As Kevin Kelly explained, there
+will not be just one kind of AI and we must stop trying to
+project ourselves and our limitations into cognitive
+machines.  Anthropomorphism is both stupid and potentially
+dangerous.  Making machines a reflection of ourselves is a
+bad idea and there is no reason to build things which share
+all out shortcomings while also giving them capabilities
+that exceed our own.  We are still very far from being able
+to build such machines and I believe that over time, as we
+begin to understand what AI is and how it works, that what
+we are building is not a reflection of ourselves, but an
+extension and externalization of ourselves that can operate
+at scales of time, space and complexity on our behalf that
+are impossible today.  Again, this is not wishful thinking,
+once we understand that all tools be they a hammer, or a CNC
+milling machine or a supercomputer that can beat the world's
+Go masters are us.  We are simply extending and
+externalizing ourselves.  And we must find the wisdom that
+we are capable of, to wisely extend and externalize
+ourselves in ways that help make the world a better place
+rather than to destroy each other.
 
 
 * The Chenla Institute
