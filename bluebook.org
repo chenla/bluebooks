@@ -24,7 +24,24 @@
 
 bibliography:../hoard/bib.bib
 
-* Introduction
+
+* First Admonition
+
+What you are holding in your hand distills what we are doing as far as
+it can be distilled without loosing so much context that it becomes
+meaningless.  Anyone who thinks that large complex things can be
+boiled down to a dark greaser smear in a couple of paragraphs, a table
+and a couple of charts is delusional.  The greasy smear approach,
+which is commonly called an /elevator pitch/ might be appropriate to
+explain an iteration on an existing idea.  But fails totally when
+describing a non-incremental innovation.  This is not a pitch, it's an
+overview of foundational work that we are building a number of
+commercial and not-for-profit projects on.
+
+
+
+
+
 * The Chenla Institute
 
 A distributed (as MIT MediaLab puts it) anti-disciplinary
