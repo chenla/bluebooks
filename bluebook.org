@@ -152,6 +152,50 @@ with such hacks when ever possible.  We must strive to work within
 these limits and treat any time that we work outside of those limits
 as kludges and abject failures.
 
+* 8 
+
+Most of these kludges fall into two categories, chunking and mapping.
+We can expand our working memory by grouping large groups of things
+into chunks.  We can remember large numbers by breaking the numbers
+into smaller groups that can be treated as a single item in memory.
+Another is to use uniforms.  The reason that sports teams, police,
+military and even schools use uniforms is so we can chunk together
+people into teams that we can treat as single units.  The second
+method, mapping, reduces large complex things to very simplified
+general outlines of larger things.  This enables us to see the forest
+for the trees, but it comes at an expense.  We are so used to using
+maps to navigate the world around us that we have forgotten that they
+are maps.  All incarnations of commerce, governance and daily life are
+now almost entirely experienced through filters that reduce the
+complexity of the world to simple models and maps.  Most people
+believe that the map is the territory.  Ignoring the complexity of
+something and only considering a simplification of it, more often than
+not ends in failure.  And rather than putting down the map and
+confronting complexity we simply try to develop a new map that doesn't
+suck as much as they one before.  Every time we chunk and map people
+we dehumanise them and cause suffering and misery.  We simplfy markets
+and reduce everything to property that has a value and can be bought
+and sold and get economic theories that don't work.  Instead of
+understanding that you can't treat everything as a commodity being
+bought and sold in a market, we throw away the theory and try to find
+a new theory.  When governments undertake massive urban development
+projects that reduce people to units that require X amount of square
+meters of space, X amount of electricity and X amount of caloric
+intake a day we are amazed when it fails.  Rather than treating human
+communities as being a surprisingly complex entaglement of motives,
+needs, relationships and needs, we toss the plan and develop a new
+plan.  When we throw away the interconnected complexity of natural
+ecosystems and replace them with single species monocultures we begin
+a process that inevitably collapses after a long process trying to
+solve each problem that comes along, from pests, to disease, to the
+effects of the climate results in a destruction of the soil, poisoning
+both land and water with insecticides, fertilizers and antibiotics.
+In the end there is nothing to be done except abandon the land and
+move on to repeat the process on new land, leaving behind barren,
+lifeless waste that will take millennia to restore.
+
+* 9 
+
 
 * The Chenla Institute
 
