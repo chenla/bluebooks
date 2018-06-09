@@ -38,7 +38,17 @@ describing a non-incremental innovation.  This is not a pitch, it's an
 overview of foundational work that we are building a number of
 commercial and not-for-profit projects on.
 
+* 1
 
+In the structure of scientific revolutions, Kuhn describes science as
+being a progression of different paradigms.  A paradign is a nebulous
+assemblage of recorded observations, theories, best practices and
+information that share a common vocabulary and structure that science
+is done in.  Over time, new observations that break the paradigm begin
+to build up until the paradigm is broken and everyone scrambles to
+come to a consensus around a new paradigm that better explains the
+evidence.  This is a useful way of understanding a very wide range of
+human activity from government, to business, education and the arts.
 
 
 
