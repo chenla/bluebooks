@@ -437,6 +437,81 @@ compete who could not produce goods in units that filled 40
 foot shipping containers and could be transported easily to
 a container port for export.
 
+* 
+
+Centralization and simplication was not just a feature of
+the industrial revolution it was a precondition that made
+scaling possible both for production and many aspects of
+governance of nation-states who were struggling to manage a
+population explosion after the end of the World War II that
+increased the world population from xxx to xxx in xx years.
+
+In the past 50 years the nation-state has lost control over
+many things that used to be under control of the state.  The
+flow of money and information is now effectively
+borderless.  Which makes it increasingly difficult for
+countries to keep wealth within borders and to effectively
+tax goods and services that now might be located almost
+anywhere on the planet.  This threatens not only the power
+of the state, but severely impacts the ability of states to
+collect tax revenue.  States now concentrate on one of the
+few things that they still can control, which is the flow of
+people across their borders, and increasingly, monitoring
+and controlling the activities of people within their borders.
+
+* 
+
+It's becoming increasingly clear that the process of
+centralization and simplication is reaching practical
+limits and that another mechanism is about to kick in.
+
+Technology is at inherently disruptive.  Major technological
+innovations arise to meet needs that existing technologies
+can no longer meet, this results in existing power
+structures being broken up and the power moves to the edges
+where the new technology has the most impact. In the
+beginning the benifits are seen by many and the barrier for
+adopting the technology and using it is low enough for
+almost anyone to use it.  As the technology matures it also
+is pushed to its limits and improvements become increasingly
+expensive to realize increasingly smaller improvements.
+This naturally favors large organizations with deep pockets
+who use their wealth to buy out or push out all smaller
+players, resulting in monoplolies or duopolies.  The
+world wide web is a classic example.  The internet and the
+web is designed to be decentralized.  However, when it was
+invented no one had any idea that it would quickly scale
+globally.  As the web grew, a crucial flaw in the original
+design became clear.  The decentralized nature of the system
+made resource discovery difficult.  Finding things simply
+didn't scale.  So it was natural that search engines became
+centralized services that provided a means for the web to
+scale.  This set the stage for everything that followēd,
+including the rise of the big five companies.  Small
+companies can not compete with these companies and are
+bought or pushed out of business.
+
+The same factors that made Amazon, Google, Facebook, Baidu
+and Alibabba possible will also work against them.  IBM once
+dominated computing when it was based on mainframe computers
+that required entire floors of buildings.  Eventually, mini
+computers from companies like DEC (digital equipment
+company), and Wang broke up the centralized mainframes and
+moved computational power to middle sized companies.  Mini
+computers which could fit inside several boxes the size of
+refridgerators dominated until smaller servers that could be
+fit in cases the size and shape of a pizza box from
+companies like Sun began to threaten mini computers.
+Shortly after, the PC revolution arrived turning small
+expensive pizza boxes into commodity hardware that anyone
+could afford.  Power again moved to the edge until the
+technology matured and required centralized and expensive
+solutions to make ever smaller incremental improvements.
+
+
+
+
+
 
 
 * ===============================
