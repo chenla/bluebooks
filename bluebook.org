@@ -132,7 +132,25 @@ the problem of scale.  Everything that Man has done that is good, as
 well as everything we have done that is bad can be understood as a
 scaling problem.
 
+* 7
 
+Humans have a very small amount of working memory.  We can only keep
+at the most, three things on working memory at a time.  Our short term
+memory is slightly larger which is expressed as the magic number seven
+plus or minus two.  Recent research indicates that the number is
+closer to for or five.  We can only maintain relationships with a
+maximum of 150 people, what is known as Dunbar's number.  This means
+we are able to related to people less and less as a group, communitiy
+or organizations increases in size.  We can only maintain close
+relationships with a handful of people, topping out at fourteen or
+less.  These are the numbers that we must stay within when we design
+buildings, businesses and governments.  The story of civilization is
+the story of how we come up with hacks to work around these
+limitations.  But they always have been, and always will, be hacks and
+recognize them for the ugliness that they are.  Better to dispense
+with such hacks when ever possible.  We must strive to work within
+these limits and treat any time that we work outside of those limits
+as kludges and abject failures.
 
 
 * The Chenla Institute
