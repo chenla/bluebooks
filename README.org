@@ -23,9 +23,7 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-Chenla Institute bluebooks.  Plural because there will be
-more than one :)
-
+Chenla Institute bluebooks.
 
 --- 
 
