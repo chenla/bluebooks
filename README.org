@@ -1,7 +1,7 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 
-* Chenla Bluebook
+* Bluebooks
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/tldr/chenla-bluebook/README.org
@@ -23,12 +23,13 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-Introduction and overview to the Chenla Institute.
+Chenla Institute bluebooks.  Plural because there will be
+more than one :)
 
 
 --- 
 
-*NOTE*: The primary repo is @ [[http://git.chenla.org/chenla/chenla-bluebook 
+*NOTE*: The primary repo is @ http://git.chenla.org/chenla/chenla-bluebook 
 Please submit pull requests and issues there.  A read
 only-mirror is maintained @ [[https://github.com/chenla/chenla-bluebook]]
 
