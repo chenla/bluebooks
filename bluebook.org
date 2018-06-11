@@ -41,6 +41,9 @@ building a number of commercial and not-for-profit projects
 on.
 
 * 1
+:PROPERTIES:
+:ID:       89c2882f-2482-4e9b-91ca-7076d9c44fc6
+:END:
 
 In the structure of scientific revolutions, Kuhn describes
 science as being a progression of different paradigms.  A
@@ -625,21 +628,39 @@ neither.  There are no simple fixes for many social
 problems, no matter how good we have it, Man is still tends
 to be a self-serving lot.  We are gullible, short-sighted,
 prone to violence, self-destructive behavior and as a
-general rule have terrible tastes in music.
+general rule have terrible taste in music.
 
 That said, there is a monumental amount of empirical
 evidence that shows that if you can materially improve the
-physical and social well-being of people, things get
-better.  We live longer, healthier and more secure lives.
-Wars become the exception rather than the rule, violent
-death becomes rare, the population goes down because the
-chilren we do have don't die before their tenth birthday. We
-are less likely to die in industrial accidents, or while
-going to work.  All of this is what has already happened
-over the past fifty years.  It's not utopian to expect that
-these trends can continue over the next fifty years.
+physical and social well-being of people, things get better.
+We live longer, healthier and more secure lives.  Wars
+become the exception rather than the rule, violent death
+becomes rare, the birth rate  goes down because women no
+longer die in child birth and those children don't die
+before their tenth birthday. We are less likely to die in
+industrial accidents or while going to work.  All of this
+is what has already happened over the past fifty years.
+It's not utopian to expect that these trends can continue
+over the next fifty years.
 
-So let's unpack
+Structurally these five items are not possible in the
+present system.  Life and work in industrial societies
+revolves around the workplace as being separate from home
+and family life, children are sequestered in schools and
+other activities while parents are at work and take no part
+in adult life.  Survival is contingent on getting a job, and
+your level of existence is determined by where you happen to
+be on a social and economic hierarchy.  Education is little
+more than preparation for a lifetime in a workplace that
+rewards people who stay in one place for long periods of
+time and do what they are instructed without question.  The
+workplace and societies we belong to are, more often than
+not, far larger than human scale and are impersonal, often
+demeaning and dehumanizing.  We live in societies that
+extoll the virtue and rights of freedom and self
+determination, but in practise we have none of those things.
+
+
 
 
 
