@@ -29,9 +29,9 @@ more than one :)
 
 --- 
 
-*NOTE*: The primary repo is @ http://git.chenla.org/chenla/chenla-bluebook 
+*NOTE*: The primary repo is @ http://git.chenla.org/chenla/bluebooks 
 Please submit pull requests and issues there.  A read
-only-mirror is maintained @ [[https://github.com/chenla/chenla-bluebook]]
+only-mirror is maintained @ [[https://github.com/chenla/bluebooks]]
 
 
 
