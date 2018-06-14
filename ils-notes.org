@@ -1,0 +1,44 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Notes on the Institute of Advanced Studies 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Notes on the Institute of Advanced Studies
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/bluebooks/ils-notes.org
+  :Created:   2018-06-14T11:30@Prek Leap (11.642600N-104.919210W)
+  :ID:        6bd6ad87-ad95-4034-8769-8aafe6b37958
+  :VER:       582222670.531536192
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:RWS4-0778
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+** TL;DR
+** References
+
+https://www.ias.edu/ideas/usefulness-useless-knowledge
+https://outline.com/DHRy7P
+https://archive.org/details/americancollege03flexgoog
+https://www.ias.edu/about/mission-history
+https://library.ias.edu/files/pdfs/bulletins/Bulletin1.pdf
+https://library.ias.edu/files/pdfs/bulletins/Bulletin9.pdf
+https://web.archive.org/web/20160305202831/http://www.cas.uio.no/Publications/Jubilee/History_of_institutes.pdf
