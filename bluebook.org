@@ -24,6 +24,8 @@
 
 bibliography:../hoard/bib.bib
 
+[[./index.org]]
+
 
 * First Admonition
 
@@ -41,9 +43,7 @@ building a number of commercial and not-for-profit projects
 on.
 
 * 1
-:PROPERTIES:
-:ID:       89c2882f-2482-4e9b-91ca-7076d9c44fc6
-:END:
+
 
 In the structure of scientific revolutions, Kuhn describes
 science as being a progression of different paradigms.  A
