@@ -31,8 +31,27 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-** Scope
-** TL;DR
+
+#+begin_quote
+Universities, being primarily intellectual in character,
+ought to me small and plastic; they should be havens where
+scholars, and scientists may regard the world and its
+phenomena as their laboratory, without being carried off by
+the maelstrom; they should be simple, comforable, quiet
+without being monastic or remote; they should be afraid of
+no issue; yet they should be under no presure from any side
+which might ted to force their scholars to be prejudiced
+either for or against any particular solution of the
+problems under study; and they should provide the
+facilities, the tranquility, and the time requisite to
+fundamental inquiry.
+
+— Abraham Flexner
+  Confidential Memorandum to the Trustee (September 26,1931)
+  pg.26
+#+end_quote
+
+
 ** References
 
 https://www.ias.edu/ideas/usefulness-useless-knowledge
@@ -42,3 +61,6 @@ https://www.ias.edu/about/mission-history
 https://library.ias.edu/files/pdfs/bulletins/Bulletin1.pdf
 https://library.ias.edu/files/pdfs/bulletins/Bulletin9.pdf
 https://web.archive.org/web/20160305202831/http://www.cas.uio.no/Publications/Jubilee/History_of_institutes.pdf
+
+https://www.ias.edu/publications
+https://www.ias.edu/files/pdfs/publications/establishing-the-ias.pdf
