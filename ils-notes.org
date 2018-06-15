@@ -145,7 +145,7 @@ philosphy of science; the school of economics, a chair of
 law or political theory.  Each school should conduct its
 affairs in its own way; for neither the subjects nor the
 scholars will all fit into one mould.  An annually changing
-chairman would perhaps be the only officer requirsite.
+chairman would perhaps be the only officer requisite.
 There should be complete academic freedom as there is in
 England, France and Germany.  We are, let it be remembered,
 dealing with seasoned and, I hope, eminent scholars, who
@@ -164,6 +164,20 @@ irksome.
   Confidential Memorandum to the Trustee (September 26,1931)
   pg.27
 #+end_quote
+
+#+begin_quote
+I am clear that the relationship between the executive
+officers and faculty is not usually in American cordial or
+satisfactory.  On the contrary, for one reason or another,
+the American professorate is unhappy — andit will not enlist
+the country's best brais in sufficient number until the
+atmosphere is radically changed.
+
+— Abraham Flexner
+  Confidential Memorandum to the Trustee (September 26,1931)
+  pg.28
+#+end_quote
+
 
 
 
