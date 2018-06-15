@@ -71,6 +71,26 @@ unanimous agreement.
   pg.26
 #+end_quote
 
+#+begin_quote
+Let me now draw a line between the Institute for Advanced
+Study, as I conceive it, by reason of its constitution and
+conception be a research institute; if the members of its
+staff are not contributors to the progress of knowledge and
+the solution of problems, there is no sufficient reason for
+setting up; but they will also be teachers, men who have
+chosen a few competent and earnest disciples engaged in the
+mastery of a subject, precisely as the pupils of all the
+great masters of the last century...  Teaching should,
+however be informal; for, if formal, mechanism will be
+devised; its burden should be light, for, if it is heavy,
+the teacher has too many pupils or the pupils unfit.  And
+the students may at times be investigators too, though not
+prematurely at the price of mastering their subjects.
+
+— Abraham Flexner
+  Confidential Memorandum to the Trustee (September 26,1931)
+  pg.27
+#+end_quote
 
 ** References
 
@@ -84,3 +104,4 @@ https://web.archive.org/web/20160305202831/http://www.cas.uio.no/Publications/Ju
 
 https://www.ias.edu/publications
 https://www.ias.edu/files/pdfs/publications/establishing-the-ias.pdf
+
