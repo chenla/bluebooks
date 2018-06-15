@@ -92,6 +92,30 @@ prematurely at the price of mastering their subjects.
   pg.27
 #+end_quote
 
+#+begin_quote
+In the so-called "research insitutes" teaching is, of
+course, also carried on, though in somewhat different
+fashion.  The members of a research institute are also
+learners, whatever else they be.  And yet the emphasis is
+different, for the research institute is primarily concerned
+with problems, very specific problems, as a rule; and young
+men enter either as assistants to older workers or as
+novices to be tried out by time.  The Institute for Advanced
+Stude will be neither a current university, struggling with
+diverse tasks and many students, nr a research institute,
+devoted soley to the solution of problems.  It may be
+pictured as a wedge inserted between the two — a small
+university, in which a limited about of teaching and liberal
+amount of research are both to be found.  Persons who
+require to be drilled or taught hard do not belong within
+the Institute for Advanced Study.
+
+— Abraham Flexner
+  Confidential Memorandum to the Trustee (September 26,1931)
+  pg.27
+#+end_quote
+
+
 ** References
 
 https://www.ias.edu/ideas/usefulness-useless-knowledge
