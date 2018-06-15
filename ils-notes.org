@@ -170,15 +170,39 @@ I am clear that the relationship between the executive
 officers and faculty is not usually in American cordial or
 satisfactory.  On the contrary, for one reason or another,
 the American professorate is unhappy — andit will not enlist
-the country's best brais in sufficient number until the
-atmosphere is radically changed.
+the country's best brains in sufficient number until the
+atmosphere is radically changed... and that policies and
+measures that are inimical to the happy and enthusiastic
+pursuit of learning are necessarily wrong.  It has been
+urged that trustees should limit their activities to
+business matters and that faculties should goveren all else.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustee (September 26,1931)
   pg.28
 #+end_quote
 
+#+begin_quote
+The  schools composing the Insitute sould each select and
+admit its own students; no registration office is needed,
+for under existing academic conditions in America the
+possession of a diploma or degree does not indicate whether
+its owner is for or unfot for advanced study.  They must be
+discovered by any means calculated to locate them.  Such
+students do indeed exist in America in considerable numbers;
+but tey are not easily found, for already universities bid
+against each other for them either by offering fellowships
+freely or by offering part-time employment.  I am sure that
+employment as assistant at this stage of the student's
+progress is wrong: in a recent report the President of
+Harvard delores the fact that of the graduate students of
+Harvard University 56% are now "part-time".  I should urge
+that students be as a rule full-time...
 
+— Abraham Flexner
+  Confidential Memorandum to the Trustee (September 26,1931)
+  pg.30
+#+end_quote
 
 
 ** References
