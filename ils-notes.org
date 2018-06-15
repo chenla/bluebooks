@@ -115,6 +115,23 @@ the Institute for Advanced Study.
   pg.27
 #+end_quote
 
+#+begin_quote
+The level of teaching and its form mark it off sharply from
+college teaching, from most university teaching, from
+technological or professional teaching.  This granted, the
+professor himself benifits, if for an hour or two weekly, in
+addition to his own research and the supervision of a few
+investigations, he discusses with a small thoroughly
+competent boduy a larger theme.  He is thus assisted in
+preserving his own perspective, and he has a motive for
+wider reading and broader contacts.
+
+— Abraham Flexner
+  Confidential Memorandum to the Trustee (September 26,1931)
+  pg.27
+#+end_quote
+
+
 
 ** References
 
