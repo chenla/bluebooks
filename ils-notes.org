@@ -48,7 +48,7 @@ fundamental inquiry.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.23
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.23]]
 #+end_quote
 
 #+begin_quote
@@ -68,7 +68,7 @@ unanimous agreement.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.26
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.26]]
 #+end_quote
 
 #+begin_quote
@@ -89,7 +89,7 @@ prematurely at the price of mastering their subjects.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.27
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.27]]
 #+end_quote
 
 #+begin_quote
@@ -112,7 +112,7 @@ the Institute for Advanced Study.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.27
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.27]]
 #+end_quote
 
 #+begin_quote
@@ -128,7 +128,7 @@ wider reading and broader contacts.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.27
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.27]]
 #+end_quote
 
 
@@ -179,7 +179,7 @@ business matters and that faculties should goveren all else.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustee (September 26,1931)
-  pg.28
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.28]]
 #+end_quote
 
 #+begin_quote
@@ -224,7 +224,7 @@ founders proposed in their first letter to the Trustees.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.30
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.30]]
 #+end_quote
 
 #+begin_quote
@@ -274,7 +274,7 @@ organism.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.31-32
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.31-32]]
 #+end_quote
 
 #+begin_quote
@@ -313,7 +313,7 @@ unhampered — will be attained.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.40
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.40]]
 #+end_quote
 
 #+begin_quote
@@ -337,7 +337,7 @@ life.
 
 — Abraham Flexner
   Confidential Memorandum to the Trustees (September 26,1931)
-  pg.41 
+  cite:flexner:1941confidential, [[pdf:flexner:1941confidential.pdf][pg.41]] 
 #+end_quote
 
 
@@ -355,5 +355,7 @@ https://library.ias.edu/files/pdfs/bulletins/Bulletin9.pdf
 https://web.archive.org/web/20160305202831/http://www.cas.uio.no/Publications/Jubilee/History_of_institutes.pdf
 
 https://www.ias.edu/publications
-https://www.ias.edu/files/pdfs/publications/establishing-the-ias.pdf
 
+- Flexner, A., Confidential memorandum to the trustees, In
+  (Eds.), Establishing the IAS (pp. ) (1941). : Institute of
+  Advanced Study.  cite:flexner:1941confidential
